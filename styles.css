@@ -1,0 +1,56 @@
+.fas{
+position: absolute;
+margin-right:150px;
+}
+
+.carousel-row{
+  background-color: #faf3f3;
+  padding:  3% 7% 13%;
+    text-align: center;
+}
+#top{
+  background-color: #faf3f3;
+    padding:  3% 7% 3%;
+}
+h1{
+font-size: 3rem;
+}
+.up{
+  font-weight: bold;
+  font-family: Montserrat;
+}
+
+.slider {
+  height: 350px;
+  float: right;
+  margin-left: 10px;
+
+}
+#footer{
+  background-color: #fea82f;
+}
+.down{
+  text-align: right;
+}
+.divProducts{
+  margin: 5%;
+}
+h4{
+  color: red;
+}
+.product{
+  height: 150px;
+}
+.nav-item{
+    text-align: right;
+}
+.product-big{
+  height: 350px;
+}
+
+.navbar-link{
+  margin-left: 10rem;
+}
+.popular{
+  background-color: #faf3f3;
+}
